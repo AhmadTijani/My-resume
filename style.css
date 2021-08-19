@@ -24,6 +24,24 @@ body {
   background: #003147;
 }
 
+.container .left_side .zuri {
+  font-weight: 1000;
+  background-color: #2a7da2;
+  position: relative;
+  align-items: center;
+  text-align-last: center;
+}
+
+.container .left_side .zuri span {
+  color: white;
+  font-weight: 1200;
+  font-size: 20px;
+}
+
+.container .left_side .zuri a:link {
+  text-decoration: none;
+}
+
 .profiletext {
   position: relative;
   display: flex;
